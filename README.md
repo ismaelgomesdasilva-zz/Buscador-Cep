@@ -11,7 +11,7 @@
   </sub>
 </div>
 
-20220318_164230.gif
+
 
 # :eyes: Demonstração
  <img src="/src/20220318_164230.gif">
